@@ -1,0 +1,9 @@
+.bg-day {
+    background: #2B72AC url(../images/home.day.2000.jpg) no-repeat 50% 100%;
+    background-attachment: fixed;
+}
+
+.bg-night {
+    background: #180D1D url(../images/home.night.2000.jpg) no-repeat 50% 100%;
+    background-attachment: fixed;
+}
